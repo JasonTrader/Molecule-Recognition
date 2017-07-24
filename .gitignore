@@ -1,0 +1,4 @@
+*.tar.gz
+mol*/
+ftp/
+ftp/io
